@@ -18,5 +18,5 @@ A website for wise medicine service.
 Queqiao is a service for helping people get into a relationship and seek for true love.
 鹊桥是一个帮助人们展开恋情寻找真爱的服务。
 
-It is based on [Creative](https://github.com/BlackrockDigital/startbootstrap-creative).
-它基于Creative.
+The front-end design is based on [Creative](https://github.com/BlackrockDigital/startbootstrap-creative).
+其前端设计基于Creative.
