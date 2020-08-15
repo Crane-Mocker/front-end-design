@@ -6174,6 +6174,16 @@ button.bg-dark:focus {
   background-color: #1d2124 !important;
 }
 
+.bg-sky {
+  background-color: #1755A6 !important;
+}
+
+a.bg-sky:hover, a.bg-dark:focus,
+button.bg-sky:hover,
+button.bg-sky:focus {
+  background-color: #1d2124 !important;
+}
+
 .bg-wine {
   background-color: #A62447 !important;
 }
